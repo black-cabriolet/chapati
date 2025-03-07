@@ -552,3 +552,7 @@ footer {
     }
 
 }
+
+.pop-up {
+    display: flex;
+}
