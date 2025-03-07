@@ -522,6 +522,20 @@ footer {
     .servings-grid{
         display: flex;
     }
+    .origin-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .origin-container img{
+        display: flex;
+        flex-direction: column;
+        margin: 10%;
+        width: 90%;
+    }
+    .ingredients-container{
+        gap: 5px;
+    }
+
     footer{
         display: flex;
         flex-direction: column;
